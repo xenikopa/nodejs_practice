@@ -57,3 +57,6 @@ logger.on('messageLogged', message => {
 logger.log('Первое сообщение');
 logger.log('Второе сообщение');
 ```
+
+**Реализация** 
+В модуле `modules/loggerModule.js` экспортируется класс `Logger`. 
