@@ -1,1 +1,0 @@
-console.log('\x1b[31mThis text is red\x1b[0m')
